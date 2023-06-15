@@ -1,0 +1,5 @@
+23-06-13 03:57:29.389 : Model path: model_zoo/drunet_color.pth
+23-06-13 03:57:29.390 : Params number: 32640960
+23-06-13 03:57:29.390 : model_name:drunet_color, model sigma:25, image sigma:25
+23-06-13 03:57:29.390 : Preprocessed_Data_noise/test/Input_images/images_folder
+23-06-13 03:59:50.310 : Average PSNR/SSIM(RGB) - images_folder_dn_drunet_color - PSNR: 28.11 dB; SSIM: 0.4881
